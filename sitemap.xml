@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/posts/2025.03.23/hello/</loc><lastmod>2025-03-21T10:08:33&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-03-21T10:08:33&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-03-21T10:08:33&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/</loc></url><url>
-            <loc>http://localhost:1313/tags/</loc></url></urlset>
+            <loc>https://cat3306.github.io/RomanticLetters/posts/2025.03.23/hello/</loc><lastmod>2025-03-21T10:08:33&#43;08:00</lastmod></url><url>
+            <loc>https://cat3306.github.io/RomanticLetters/</loc><lastmod>2025-03-21T10:08:33&#43;08:00</lastmod></url><url>
+            <loc>https://cat3306.github.io/RomanticLetters/posts/</loc><lastmod>2025-03-21T10:08:33&#43;08:00</lastmod></url><url>
+            <loc>https://cat3306.github.io/RomanticLetters/categories/</loc></url><url>
+            <loc>https://cat3306.github.io/RomanticLetters/tags/</loc></url></urlset>
