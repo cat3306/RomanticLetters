@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - 书信</title>
-        <link>https://localhost:1313/RomanticLetters/posts/</link>
+        <link>https://cat3306.github.io/RomanticLetters/posts/</link>
         <description>All Posts | 书信</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 21 Mar 2025 10:08:33 &#43;0800</lastBuildDate><atom:link href="https://localhost:1313/RomanticLetters/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 21 Mar 2025 10:08:33 &#43;0800</lastBuildDate><atom:link href="https://cat3306.github.io/RomanticLetters/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Hello</title>
-    <link>https://localhost:1313/RomanticLetters/posts/2025.03.21/hello/</link>
+    <link>https://cat3306.github.io/RomanticLetters/posts/2025.03.21/hello/</link>
     <pubDate>Fri, 21 Mar 2025 10:08:33 &#43;0800</pubDate>
     <author>cat13</author>
-    <guid>https://localhost:1313/RomanticLetters/posts/2025.03.21/hello/</guid>
+    <guid>https://cat3306.github.io/RomanticLetters/posts/2025.03.21/hello/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/RomanticLetters/images/2025.03.21/2.jpg" referrerpolicy="no-referrer">
             </div><meting-js auto="https://music.163.com/#/song?id=2611038834" theme="#448aff"></meting-js>
