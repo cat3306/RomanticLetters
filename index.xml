@@ -13,7 +13,9 @@
     <guid>https://cat3306.github.io/RomanticLetters/posts/2025.03.21/hello/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/RomanticLetters/images/2025.03.21/2.jpg" referrerpolicy="no-referrer">
-            </div><h3 id="展信佳">展信佳</h3>
+            </div><meting-js auto="https://music.163.com/#/song?id=2611038834" theme="#448aff"></meting-js>
+<h3 id="展信佳">展信佳</h3>
+
 
 
 
@@ -22,7 +24,7 @@
 <div class="letter">
     <div class="letter-header">
         <span class="letter-date">2023年10月1日</span>
-        <div class="letter-to">致：墨风笑</div>
+        <div class="letter-to">亲爱的墨风笑</div>
     </div>
     <div class="letter-content">
         <p>展信佳</p>
@@ -33,31 +35,31 @@
 
     </div>
     <div class="letter-signature">
-        来自光年外的轻语 
+        <p>来自光年外的轻语</p>
         <p>cat101</p>
     </div>
 </div>
 
 <style>
 .letter {
-    font-family: 'Georgia', serif;
+    font-family: 'XingShu', cursive;
     margin: 20px;
     padding: 20px;
     border: 1px solid #d2b48c;
     border-radius: 10px;
     background: #fff8dc;
-    width: 80%;
-    max-width: 800px;
+    width: 100%;
     line-height: 1.6;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
-    background-image: url('/images/2025.03.21/2.jpg');  
-    background-size: cover;  
-    background-position: center;  
-    background-repeat: no-repeat;  
+    font-size: large;
 }
 
 .letter-header {
     margin-bottom: 10px;
+    font-family: 'XingShu', cursive;
+    font-size: 24px;
+    color: #646161;
+
 }
 
 .letter-date {
@@ -83,9 +85,17 @@
 .letter-signature {
     text-align: right;
     font-style: italic;
+    font-family: 'XingShu', cursive;
+}
+@font-face {
+        font-family: 'XingShu';
+        src: url('/fonts/xingshu.ttf') format('truetype');
+        font-weight: normal;    
+        font-style: normal;
 }
 </style>
-<meting-js auto="https://music.163.com/#/song?id=2611038834" theme="#448aff"></meting-js>]]></description>
+
+<p>sssss</p>]]></description>
 </item>
 </channel>
 </rss>
